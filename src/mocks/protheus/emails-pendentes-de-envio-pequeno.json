@@ -1,0 +1,18 @@
+[
+    {
+        "id": "27b6ddd5b64c47449fd08c4128ddcafd",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Primeiro e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    },
+    {
+        "id": "6d21911cf6754563a6d85f12333c431e",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Segundo e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    }
+]

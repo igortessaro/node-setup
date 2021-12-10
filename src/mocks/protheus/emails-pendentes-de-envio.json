@@ -1,0 +1,50 @@
+[
+    {
+        "id": "27b6ddd5b64c47449fd08c4128ddcafd",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Primeiro e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    },
+    {
+        "id": "6d21911cf6754563a6d85f12333c431e",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Segundo e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    },
+    {
+        "id": "6d21911cf6754563a6d85f12333c431e",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Terceiro e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    },
+    {
+        "id": "2fbf4e9bea9d4f8f9d476970714a9d03",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Quarto e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    },
+    {
+        "id": "597dffb4f11445c1b47174e5465e8533",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Quinto e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    },
+    {
+        "id": "127f14bc8ded4a8bb5ef0802581c78bc",
+        "para": [
+            "santos.igor@cwi.com.br"
+        ],
+        "assunto": "Sexto e-mail automatizado",
+        "mensagem": "Este e-mail foi enviado automaticamente pelo google."
+    }
+]
